@@ -8,8 +8,7 @@ Developer & Teacher
 -----------------------------
 Here are some ideas to get you started:
 
-* ![image](https://user-images.githubusercontent.com/103292343/180642314-2e55486a-d98e-43b8-a98c-10dfab3cc9ad.png) I’m from IRAN .....
-
+* ![image](https://user-images.githubusercontent.com/103292343/180642314-2e55486a-d98e-43b8-a98c-10dfab3cc9ad.png) I’m from IRAN
 * 🔭 I’m currently working in these fields : 
 * <img src="https://cdn3.iconfinder.com/data/icons/coloured-outline-medical-equipment/32/diagnostic_imaging_machine_mri_scanner-512.png" width="22" height="22"> Medical imaging processing
 * <img src="https://cdn4.iconfinder.com/data/icons/general-office/91/General_Office_60-512.png" width="20" height="20"> OpenCV
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 * <img src="https://cdn0.iconfinder.com/data/icons/virtual-reality-15/135/_virtual_reality-128.png" width="22" height="22" > Computer Vision
 * <img src="https://cdn1.iconfinder.com/data/icons/data-science-flat-1/64/deep-learning-data-robotics-robot-ai-modeling-128.png" width="22" height="22">Artificial intelligence
 
-* 🌱 I’m currently learning Kotlin , Tensorflow , Html , Css ,.....
+* 🌱 I’m currently learning : <img src="https://seekicon.com/free-icon-download/kotlin_2.svg" width="22" height="22"> Kotlin , <img src="https://seekicon.com/free-icon-download/tensorflow_2.svg" width="22" height="22"> Tensorflow ,<img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" width="22" height="22"> Html , <img src="https://seekicon.com/free-icon-download/css-3_2.svg" width="22" height="22"> Css ,.....
 <!-- * 👯 I’m looking to collaborate on .....
 * 🤔 I’m looking for help with .....
 * 💬 Ask me about .....
@@ -45,7 +44,7 @@ Here are some ideas to get you started:
 <a href="https://www.github.com/mrezaalizadeh1998" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 
 
-</p>
+<!-- </p>
 
 ### Badges
 
@@ -53,6 +52,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/mrezaalizadeh1998" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrezaalizadeh1998&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ### Support Me
-<a href="https://www.buymeacoffee.com/mrezaalizadeh1998"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/mrezaalizadeh1998"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
 
-## The game continues.....
+### The game continues.....
