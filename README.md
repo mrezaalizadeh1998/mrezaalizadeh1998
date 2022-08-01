@@ -1,7 +1,7 @@
 ## IN THE NAME OF GOD <img src="https://cdn1.iconfinder.com/data/icons/ramadhan-kareem-2/512/Ramadhan-07-128.png" width="42" height="42">,<img src="https://cdn4.iconfinder.com/data/icons/ramadan-kareem-11/48/04_mecca_muslim_ramadan_prayer_allah_islam_religion-128.png" width="32" height="32">
 ### Hi there 👋
 
-My name is Mohammadreza Alizadeh Atashgahi
+My name is Mohammad Reza Alizadeh Atashgahi
 ===============================
 
 Developer & Teacher
